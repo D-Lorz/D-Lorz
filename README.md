@@ -52,7 +52,7 @@ Dorian</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,discord,docker,postgres,prisma,mysql,mongodb,firebase,php,java,js,nodejs,express,astro,vue,html,css,md,postman,py,tailwind,bootstrap,vscode,notion,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,discord,docker,postgres,prisma,mysql,mongodb,firebase,php,java,js,nodejs,express,astro,react,html,css,md,postman,py,tailwind,bootstrap,vscode,notion,wordpress" />
   </a>
 </p>
 
