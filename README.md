@@ -12,7 +12,7 @@ Dorian</a></h1>
 
 - 💻 I’m currently working on Backend App using Node.js, MongoDB, Azure Services Bus & Storage
 
-- 🌱 I am currently learning React.js and Next.js, and soon Web3 technologies as Blockchain, Smart Contracts, Wallets & NFTs
+- 🌱 I am currently learning React.js, and soon Nest.js, Next.js, Web3 technologies as Blockchain, Smart Contracts, Wallets & NFTs
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
