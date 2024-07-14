@@ -10,9 +10,9 @@ Dorian</a></h1>
 
 - 🔨 I’m currently working in ***<a href="https://gets.com.co" target="_blank">GETS Tecnología</a>***
 
-- 💻 I’m currently working on a project as a backend using Node.js (ATMs).
+- 💻 I’m currently working on a project ATMs as a backend using Node.js
 
-- 🌱 I am currently learning Web3 technologies as Blockchain & Smart Contracts with Solidity, also React.js.
+- 🌱 I am currently learning Web3 technologies as Blockchain & Smart Contracts with Solidity and also React.js
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
@@ -52,7 +52,7 @@ Dorian</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,discord,docker,postgres,prisma,mysql,mongodb,firebase,php,java,js,nodejs,express,astro,react,html,css,md,postman,py,tailwind,bootstrap,vscode,notion,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,discord,docker,postgres,prisma,mysql,mongodb,firebase,php,java,js,nodejs,express,astro,react,html,css,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,remix" />
   </a>
 </p>
 
