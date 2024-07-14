@@ -8,11 +8,11 @@ Dorian</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔨 I’m currently working in ***GETS Tecnología***
+- 🔨 I’m currently working in ***<a href="https://gets.com.co" target="_blank">GETS Tecnología</a>***
 
-- 💻 I’m currently working on Backend App using Node.js, MongoDB, Azure Services Bus & Storage
+- 💻 I’m currently working on a project as a backend using Node.js (ATMs).
 
-- 🌱 I am currently learning React.js, and soon Nest.js, Next.js, Web3 technologies as Blockchain, Smart Contracts, Wallets & NFTs
+- 🌱 I am currently learning Web3 technologies as Blockchain & Smart Contracts with Solidity, also React.js.
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
