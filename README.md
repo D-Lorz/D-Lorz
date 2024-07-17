@@ -12,7 +12,7 @@ Dorian</a></h1>
 
 - 💻 I’m currently working on a project ATMs as a backend using Node.js
 
-- 🌱 I am currently learning Web3 technologies as Blockchain & Smart Contracts with Solidity and also React.js
+- 🌱 I am currently learning Web3 technologies as Smart Contracts with Solidity and also React.js
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
