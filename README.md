@@ -8,11 +8,9 @@ Dorian</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔨 I’m currently working in ***<a href="https://gets.com.co" target="_blank">GETS Tecnología</a>***
+- 🔨 I worked as a backend developer using Node.js and Azure Service Bus earlier this year.
 
-- 💻 I’m currently working on a project ATMs as a backend using Node.js
-
-- 🌱 I am currently learning Web3 technologies as Smart Contracts with Solidity and also React.js
+- 💻 I am currently learning React.js and also exploring Web3 technologies such as smart contracts with Solidity.
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
