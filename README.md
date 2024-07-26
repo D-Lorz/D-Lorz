@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Dorian</a></h1>
-<h3 align="center">A passionate Web App developer from Colombia</h3>
+<h3 align="center">A passionate web app developer from Colombia</h3>
 
 </br>
 
