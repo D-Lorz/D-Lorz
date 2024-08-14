@@ -10,7 +10,7 @@ Dorian</a></h1>
 
 - 🔨 I worked as a backend developer using Node.js and Azure Service Bus earlier this year.
 
-- 💻 I am currently learning React.js and also exploring Web3 technologies such as smart contracts with Solidity.
+- 💻 I am currently learning Nestjs & React.js and also little exploring Web3 technologies such as smart contracts with Solidity.
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
