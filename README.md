@@ -45,7 +45,7 @@ Dorian</a></h1>
 
 <br>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Technologies That I Know👨🏻‍💻 </b>
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Technologies I’m Familiar With👨🏻‍💻 </b>
 
 <!--tech stack icons-->
 <p align="center">
