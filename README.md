@@ -20,37 +20,39 @@ Dorian</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dorian-lorz/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D-Lorz">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/Dalorz_W">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dorian-lorz/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/D-Lorz">
+	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://x.com/Dalorz_W">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+  </div>
+  
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
-
-<a href="https://github.com/D-Lorz/">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Lorz&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D-Lorz&show_icons=true&locale=en&layout=compact&line_height=20&&langs_count=3&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="D-Lorz"/>
-
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=D-Lorz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Lorz&theme=blueberry&hide_border=false" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Lorz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<br>
+---
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Technologies I’m Familiar With👨🏻‍💻 </b>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,discord,docker,postgres,prisma,mysql,mongodb,js,npm,nodejs,express,nestjs,react,vite,html,css,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda" />
+    <img src="https://skillicons.dev/icons?i=git,azure,discord,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,nodejs,express,nestjs,react,vite,html,css,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda" />
   </a>
 </p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
