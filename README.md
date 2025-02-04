@@ -8,9 +8,9 @@ Dorian</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔨 I worked as a backend developer using Node.js, Express.js and Azure Cloud (Service Bus, Storage and CosmosDB with MongoDB API) earlier this year.
+- 🔨 I worked as a backend developer using Node.js, Express.js and Azure Cloud (Service Bus, Storage and CosmosDB with MongoDB API) last year ago.
 
-- 💻 I am currently improve my skills in NestJS, while implementing it in the development of an API for a personal project.
+- 💻 I am currently improve my skills in NestJS, while implementing in development of ePayco's subscription services. Moreover to manage the APIs & databases.
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
@@ -47,7 +47,7 @@ Dorian</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,discord,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,nodejs,express,nestjs,react,vite,html,css,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda" />
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,nodejs,express,typescript,nestjs,react,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda" />
   </a>
 </p>
 
