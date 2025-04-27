@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Dorian</a></h1>
-<h3 align="center">A passionate Software Developer from Colombia</h3>
+<h1 align="center">Hey all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,
+I'm<a href="https://github.com/D-Lorz" target="blank"> Dorian</a></h1>
+<h3 align="center">A Colombian focused on Software Development</h3>
 
 </br>
 
@@ -8,9 +8,14 @@ Dorian</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔨 I worked as a backend developer using Node.js, Express.js and Azure Cloud (Service Bus, Storage and CosmosDB with MongoDB API) last year ago.
+- 🛠️ I worked as a backend developer using Node.js, Express.js, and Azure Cloud (Service Bus, Storage, and CosmosDB with MongoDB API).
 
-- 💻 I am currently improve my skills in NestJS, while implementing in development of ePayco's subscription services. Moreover to manage the APIs & databases.
+- 💻🔧I am currently enhancing my expertise in NestJS and Laravel, utilizing them in the development of ePayco's subscription services. Additionally,
+I oversee the management of APIs and databases to ensure seamless, efficient, and high quality integration.
+
+- 🤝 I consider myself friendly, proactive, and always open to learning and sharing knowledge within a team. I always strive to contribute with
+enthusiasm and dedication, working collaboratively to achieve outstanding results.🏆
+
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
 
@@ -47,7 +52,7 @@ Dorian</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,nodejs,express,typescript,nestjs,react,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda" />
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,yarn,bun,nodejs,express,typescript,nestjs,react,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda,php,laravel" />
   </a>
 </p>
 
