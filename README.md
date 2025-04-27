@@ -10,11 +10,13 @@ I'm<a href="https://github.com/D-Lorz" target="blank"> Dorian</a></h1>
 
 - 🛠️ I worked as a backend developer using Node.js, Express.js, and Azure Cloud (Service Bus, Storage, and CosmosDB with MongoDB API).
 
-- 💻🔧I am currently enhancing my expertise in NestJS and Laravel, utilizing them in the development of ePayco's subscription services. Additionally,
-I oversee the management of APIs and databases to ensure seamless, efficient, and high quality integration.
+- 💻🔧I am currently enhancing my expertise in NestJS and Laravel, utilizing them in the development of ePayco's subscription services.
 
-- 🤝 I consider myself friendly, proactive, and always open to learning and sharing knowledge within a team. I always strive to contribute with
-enthusiasm and dedication, working collaboratively to achieve outstanding results.🏆
+    Additionally, I oversee the management of APIs and databases to ensure seamless, efficient, and high quality integration.
+
+- 🤝 I consider myself friendly, proactive, and always open to learning and sharing knowledge within a team.
+
+    I always strive to contribute with enthusiasm and dedication, working collaboratively to achieve outstanding results.🏆
 
 
 <div align="center" ><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></div>
