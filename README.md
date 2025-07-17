@@ -1,4 +1,4 @@
-<h1 align="center">Hey all <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,
 I'm<a href="https://github.com/D-Lorz" target="blank"> Dorian</a></h1>
 <h3 align="center">A Colombian focused on Software Development</h3>
 
