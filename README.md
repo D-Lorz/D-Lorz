@@ -49,7 +49,7 @@ I'm<a href="https://github.com/D-Lorz" target="blank"> Dorian</a></h1>
 
 ---
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Technologies I’m Familiar With👨🏻‍💻 </b>
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Tools & Technologies👨🏻‍💻 </b>
 
 <!--tech stack icons-->
 <p align="center">
