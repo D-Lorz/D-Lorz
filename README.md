@@ -54,7 +54,7 @@ I'm<a href="https://github.com/D-Lorz" target="blank"> Dorian</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,prisma,mysql,mongodb,js,npm,pnpm,yarn,bun,nodejs,express,typescript,nestjs,react,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,anaconda,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,prisma,mysql,mongodb,js,npm,yarn,bun,nodejs,express,typescript,nestjs,react,solidity,md,postman,tailwind,bootstrap,vscode,notion,wordpress,supabase,replit,aws,php,laravel" />
   </a>
 </p>
 
